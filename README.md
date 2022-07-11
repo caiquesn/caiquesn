@@ -1,4 +1,4 @@
-<strong> Olá pessoal!!! <strong/> 🖐️ 
+<strong> Olá pessoal!!! </strong> 🖐️ 
 
 Me chamo Caique Nascimento, bem vindo ao meu perfil GitHub!
 
